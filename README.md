@@ -26,5 +26,5 @@ Goal - I want contributors to help me list some favorite coffee growing regions.
 5. Robusta
 6. vietnam
 7. Guatemala　🇬🇹
-8. Jamaican Blue Mountain Coffee
+8. Jamaican Blue Mountain Coffee * 2
 9. Americano
